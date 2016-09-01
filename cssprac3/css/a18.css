@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+#hdr{
+	width: 1000px;
+	height: 120px;
+	border: 1px solid #006;
+}
+
+#mnbd{
+	width: 1000px;
+	height: 500px;
+	border: 1px solid #006;
+	background-color: #FFC;
+}
+
+#mnu1{
+	width: 200px;
+	height: 600px;
+	border: 1px solid #006;
+	background-color: #CF9;
+	float: left;
+}
+
+#mnu2{
+	width: 200px;
+	height: 580px;
+	border: 1px solid #006;
+	background-color: #CF9;
+	float: right;
+}
+
+#mncn{
+	width: 560px;
+	height: 500px;
+	border: 1px solid #006;
+	background-color: #3CC;
+	margin-left: 220px;
+}
+
+#ftr{
+	width: 1000px;
+	height: 50px;
+	border: 3px solid #006;
+	clear: both;
+}

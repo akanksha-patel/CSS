@@ -1,0 +1,9 @@
+
+span {
+	border: 1px solid #333;
+	font-family: "Comic Sans MS", cursive;
+	font-size: 48px;
+	color: #C30;
+	line-height: 45px;
+	text-decoration: blink;
+}

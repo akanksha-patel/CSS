@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+#abc{
+	border: 1px solid red;
+	letter-spacing: .1em;
+}
+
+#xyz{
+	border: 1px solid red;
+	text-align: right;
+}
+
+#pqr{
+	border: 3px solid #366;
+	text-align: center;
+}
+
+td{
+	vertical-align: bottom;
+}

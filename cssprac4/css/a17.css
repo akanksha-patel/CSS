@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+#abc1{
+	width: 400px;
+	height: 400px;
+	border: 1px solid red;
+	background-color: #CF9;
+	position: relative;
+}
+
+#abc2{
+	width: 300px;
+	height: 300px;
+	border: 1px solid green;
+	background-color: #F93;
+	position: absolute;
+	left: 50px;
+	top: 50px;
+}
+
+#abc3{
+	width: 100px;
+	height: 100px;
+	border: 1px solid blue;
+	background-color: #0F9;	
+	position: absolute;
+	left: 50px;
+	top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

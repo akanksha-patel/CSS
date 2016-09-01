@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+#abc1{
+	width: 400px;
+	height: 400px;
+	background-color: #CCC;
+	border: 1px solid red;
+	position: relative;
+}
+
+#abc2{
+	width: 150px;
+	height: 150px;
+	background-color: #0FF;
+	border: 1px solid #009;
+	position: absolute;
+	left: 50px;
+	top: 50px;
+	z-index: 2;
+}
+
+#abc3{
+	width: 150px;
+	height: 150px;
+	background-color: #C30;
+	border: 1px solid #C66;
+	position: absolute;
+	left: 100px;
+	top: 100px;
+	z-index: 200;
+}
+
+#abc4{
+	width: 150px;
+	height: 150px;
+	background-color: #69C;
+	border: 1px solid red;
+	position: absolute;
+	left: 150px;
+	top: 150px;
+}

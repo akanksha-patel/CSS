@@ -1,0 +1,22 @@
+
+#abc1{
+	background-color: #eee;
+	color: yellow;
+}
+
+.abc{
+	color: red;
+	font-size: 32px;
+	border: 1px solid #222;
+	background-color: #ccc;
+}
+
+
+
+#abc2{
+	background-color: yellow;
+} 
+
+#abc3{
+	background-color: blue;
+}

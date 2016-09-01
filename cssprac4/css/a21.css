@@ -1,0 +1,29 @@
+#abc1{
+	background-color: #FFC;
+	border: 1px solid red;
+	width: 400px;
+	height: 400px;
+	position: relative;
+	background-image: url(../images/abc.jpg);
+}
+
+#abc2{
+	background-color: #9FC;
+	border: 1px solid red;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	left: 100px;
+	top: 100px;
+	opacity: .4;
+}
+
+#abc3{
+	background-color: #F60;
+	border: 1px solid red;
+	width: 75px;
+	height: 75px;
+	position: absolute;
+	left: 50px;
+	top: 50px;
+}

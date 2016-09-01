@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+#a1{
+	background-color: #CF9;
+	border: 1px solid #C63;
+	text-align: center;
+}
+
+#a2{
+	background-color: #F6C;
+	border: 1px solid #06C;
+	height: 200px;
+	width: 200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+

@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+#a1{
+	border: 1px solid black;
+	/*margin: 50px;*/	
+	margin-right: 50px;
+}
+
+#a2{
+	border: 1px solid black;
+	margin-left: 50px;
+}
+
+#a3{
+	border: 1px solid black;	
+}

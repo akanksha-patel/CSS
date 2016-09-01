@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin-top: 0px;
+}
+#abc{
+	width: 700px;
+	height: 36px;
+	background-color: #FFC;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	cursor: help;
+}
+
+#lf{
+	width: 8px;
+	height: 36px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background-image: url(../images/lf.jpg);
+}
+
+#md{
+	width: 684px;
+	height: 36px;
+	position: absolute;
+	left: 8px;
+	top: 0px;
+	background-image: url(../images/md.jpg);
+}
+
+#rt{
+	width: 8px;
+	height: 36px;
+	position: absolute;
+	left: 692px;
+	top: 0px;
+	background-image: url(../images/rt.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

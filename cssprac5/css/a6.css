@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+#ab1{
+	border: 1px solid red;
+	height: 200px;
+	width: 200px;
+	background-color: #FC9;
+	/*display: none;*/
+	visibility: hidden;
+}
+
+#ab2{
+	border: 1px solid red;
+	height: 200px;
+	width: 200px;
+	background-color: #339;
+}

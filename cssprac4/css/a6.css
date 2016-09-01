@@ -1,0 +1,26 @@
+div{
+	border: 5px solid red;
+}
+
+
+#abc{
+	color: #f56666;	
+	/*border: 1px solid red;*/
+	
+	font-family: Verdana, Geneva, sans-serif;
+	
+	/*
+	font-size: 24px;
+	
+	font-style: italic;	
+	
+	font-weight: bold;
+	
+	text-transform: capitalize;	
+	
+	font-variant: small-caps;*/
+	/*
+	line-height: 40px;*/
+	
+	text-decoration: line-through;
+}

@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+#bx1{
+	width: 300px;
+	height: 300px;	
+	background-color: #CF6;
+	
+	/*border: 5px ridge red;*/
+	/*border-bottom: 7px solid green;*/
+	border-bottom-style: dotted;
+	border-bottom-width: 5px;
+	border-bottom-color: #C00;
+}

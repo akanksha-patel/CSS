@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+#ab{
+	border: 1px solid red;
+	width: 900px;
+	height: 600px;
+	background-image: url(../images/1.jpg);
+	border-radius: 12px;
+}
+
+#th{
+	border: 1px solid blue;
+	background-color: #FF9;
+	width: 400px;
+	height: 300px;
+	filter: Alpha(Opacity=50%);	
+	opacity: .5;
+}

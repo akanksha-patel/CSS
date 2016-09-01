@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+#abc{
+	border: 1px solid red;
+	height: 200px;
+	background-image: url(../images/a1.png);
+	background-repeat: no-repeat;
+	background-position: 200px 100px;
+}

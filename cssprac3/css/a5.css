@@ -1,0 +1,26 @@
+/*Case 1:*/
+
+/*
+#abc1{
+	border: 1px solid #b44b36;
+	color: #b44b36;
+	font-weight: bold;
+	font-size: 34px;
+}
+
+#abc2{
+	border: 1px solid #b44b36;
+	color: #b44b36;
+	font-weight: bold;
+	font-size: 34px;
+}*/
+
+/*Case 2:*/
+
+#abc1,#abc2{
+	border: 1px solid #596d21;
+	color: #596d21;
+	font-weight: bold;
+	font-size: 64px;
+	background-color: yellow;
+}

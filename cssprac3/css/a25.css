@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+div{
+	padding: 25px 12px;
+}
+
+a{
+	border: 1px solid #333;
+	padding: 4px 15px;
+	font-size: 32px;
+	margin-right: 8px;
+	text-decoration: none;
+	
+}
+
+a:link, a:visited{
+	color: #C30;
+	background-color: #FFC;
+}
+
+a:hover, a:active{
+	color: #FFC;
+	background-color: #C30;
+}

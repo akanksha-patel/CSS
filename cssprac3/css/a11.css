@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+#abc{
+	font-size: 64px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	color: #4DAA0F;
+	text-transform: uppercase;
+	font-style: italic;
+	text-decoration: blink;	/*font-variant: small-caps;*/
+	line-height: .9em;
+}

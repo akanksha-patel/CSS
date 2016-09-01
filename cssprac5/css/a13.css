@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+#a{
+	background-color: #9C6;
+	width: 500px;
+	height: 500px;
+	position: absolute;
+}
+
+#b{
+	width: 200px;
+	height: 200px;
+	background-color: #F90;
+	position: relative;
+	left: 100px;
+	top: 100px;
+	z-index: 4;
+}
+
+#c{
+	width: 200px;
+	height: 200px;
+	background-color:#FF6;
+	position: relative;
+	left: 200px;
+	z-index: 5;
+}

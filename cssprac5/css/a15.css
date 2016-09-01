@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+#ab{
+	border: 1px solid red;
+	background-color: #CFC;
+	padding: 5px 12px;
+	cursor: pointer;
+}

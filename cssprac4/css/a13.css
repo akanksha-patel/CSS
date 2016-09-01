@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+#abc1{
+	border: 1px solid red;
+	background-color: #CFC;
+	font-size: 18px;
+	/*padding: 20px 30px 40px 50px;*/	
+	/*padding: 50px 100px;*/
+	/*padding: 10px;*/
+	padding-bottom: 30px;
+}

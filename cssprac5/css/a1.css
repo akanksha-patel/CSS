@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+
+#a1{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 36px;
+	font-weight: bold;
+	font-style: italic;
+	font-variant: normal;
+	line-height: 40px;
+	text-transform: capitalize;
+	color: #6AE620;
+	text-decoration: overline;
+}

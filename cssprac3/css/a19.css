@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+#a1{
+	border: 1px solid #333;
+	height: 100px;
+	width: 100px;
+	
+	
+	/*border-style: groove;
+	border-width: 5px;
+	border-color: #C30;*/
+	
+	/*
+	border-top: 3px dashed red;
+	border-bottom: 2px dotted green;
+	border-right: 4px ridge yellow;*/
+	
+	
+	border-bottom-style: dotted;
+	border-bottom-width: 8px;
+}

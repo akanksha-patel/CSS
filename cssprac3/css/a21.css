@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+#a1{
+	width: 400px;
+	height: 400px;
+	border: 1px solid #066;
+	background-color: #FFC;
+	position: relative;
+}
+
+#a2{
+	width: 100px;
+	height: 100px;
+	border: 1px solid #066;
+	background-color: #F00;
+	position: absolute;
+	left: 50px;
+	top: 50px;
+	z-index: 50;
+}
+
+#a3{
+	width: 100px;
+	height: 100px;
+	border: 1px solid #066;
+	background-color: #09C;
+	position: absolute;
+	left: 100px;
+	top: 100px;
+	z-index: 51;
+}
+
+#a4{
+	width: 100px;
+	height: 100px;
+	border: 1px solid #066;
+	background-color: #C93;
+	position: absolute;
+	left: 150px;
+	top: 150px;
+}

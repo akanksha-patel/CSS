@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+#ab{
+	border: 1px solid red;
+	height: 50px;
+	width: 50px;
+	background-image: url(../images/2.png);
+	background-repeat: no-repeat;
+	background-position: -40px -40px;
+}

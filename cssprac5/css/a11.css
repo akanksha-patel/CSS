@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+#otr{
+	width: 500px;
+	height: 500px;
+	border: 1px solid red;
+	background-color: #9F6;
+	position: absolute;
+}
+
+#inr{
+	width: 300px;
+	height: 300px;
+	border: 1px solid #639;
+	background-color: #FFC;
+	position: relative;
+	left: 100px;
+	top: 100px;
+}
+
+#inrinr{
+	width: 100px;
+	height: 100px;
+	border: 1px solid #09F;
+	background-color: #F66;
+	position: relative;
+	left: 100px;
+	top: 100px;
+}

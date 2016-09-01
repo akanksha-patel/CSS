@@ -1,0 +1,71 @@
+
+/*Case 4:*/
+/*
+span{
+	color: blue;
+	background-color: #eee;
+	border: 1px solid red;
+}*/
+
+
+/*Case 5:*/
+/*
+.abc{
+	color: blue;
+	background-color: #eee;
+	border: 1px solid red;
+}
+
+#abc1{
+	color: yellow;
+}
+
+#abc2{
+	color: red;
+}
+
+#abc3{
+	color: green;
+}
+*/
+
+
+/*Case 2:*/
+/*
+#abc1,#abc2,#abc3{
+	color: blue;
+	background-color: #eee;
+	border: 1px solid blue;
+}*/
+
+
+/*Case 3:*/
+/*
+.abc{
+	color: blue;
+	background-color: #eee;
+	border: 1px solid red;
+}*/
+
+
+
+/*Case 1:*/
+/*
+#abc1{
+	color: blue;
+	background-color: #eee;
+	border: 1px solid red;
+}	
+
+#abc2{
+	color: blue;
+	background-color: #eee;
+	border: 1px solid red;
+}	
+
+#abc3{
+	color: blue;
+	background-color: #eee;
+	border: 1px solid red;
+}	*/
+
